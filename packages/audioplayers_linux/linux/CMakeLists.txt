@@ -2,7 +2,7 @@
 cmake_minimum_required(VERSION 3.10)
 set(PROJECT_NAME "audioplayers_linux")
 project(${PROJECT_NAME} LANGUAGES CXX)
-include(FetchContent)
+# include(FetchContent)
 
 # This value is used when generating builds using this plugin, so it must
 # not be changed
