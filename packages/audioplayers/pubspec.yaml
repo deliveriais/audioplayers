@@ -24,7 +24,7 @@ dependencies:
   audioplayers_darwin: ^1.0.1
   audioplayers_linux:
     git:
-      url: https://github.com/deliver-iais/audioplayers.git
+      url: https://github.com/deliveriais/audioplayers.git
       path: packages/audioplayers_linux
   audioplayers_platform_interface: ^1.0.0
   audioplayers_web: ^1.0.0
